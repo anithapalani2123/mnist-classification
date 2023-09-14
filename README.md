@@ -160,16 +160,3 @@ Include confusion matrix here
 A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
 
 
-
-
-
-
-
-
-
-
-
-
-Include your sample input and output for your hand written images.
-
-## RESULT
