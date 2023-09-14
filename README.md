@@ -156,6 +156,9 @@ Include confusion matrix here
 ### New Sample Data Prediction
 ![image](https://github.com/anithapalani2123/mnist-classification/assets/94184990/fa082475-0713-4f8c-a66f-ceba7b09d964)
 
+![image](https://github.com/anithapalani2123/mnist-classification/assets/94184990/1b6a33f2-ae65-4352-aa6b-639108c3ec4b)
+
+
 ### RESULT:
 A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
 
